@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background: #4a76a8;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.sidebar {
+  background: #f0f2f5;
+  width: 200px;
+  float: left;
+  height: 100vh;
+}
