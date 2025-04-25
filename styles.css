@@ -11,8 +11,9 @@ body {
 }
 
 .sidebar {
-  background: #f0f2f5;
+  display: flex;
+  gap: 10px;
   width: 200px;
-  float: left;
   height: 100vh;
+  background: #f0f2f5;
 }
